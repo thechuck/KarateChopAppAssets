@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 590a540cd5f98c443aa3cd8f5fd4d58b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - board: {fileID: 21300000, guid: 77a9bb35f7edb1a4ab2b74e7680222d2, type: 3}
+  - badBoard1: {fileID: 21300000, guid: 9ec3e2b98faaffd4996a76a146e7db5b, type: 3}
+  - badBoard2: {fileID: 21300000, guid: 89eee2675ad28d34da04719630e96730, type: 3}
+  - badBoard3: {fileID: 21300000, guid: 6b772533093dba64689a2c89517f81ac, type: 3}
+  - badBoard4: {fileID: 21300000, guid: 3bb11a65f6a9ee44fbbdabfdef60b94c, type: 3}
+  - noBoard: {fileID: 21300000, guid: d9d12f46f5f7e9d488fbd79ab29be3ea, type: 3}
+  - broken: {fileID: 21300000, guid: ddc073e4bd5ffb44495fe07b5460c416, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
